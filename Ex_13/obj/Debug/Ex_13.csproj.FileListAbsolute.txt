@@ -1,0 +1,7 @@
+c:\users\kyria\documents\visual studio 2015\Projects\PragmaticProgrammer_Exercises\Ex_13\bin\Debug\Ex_13.exe.config
+c:\users\kyria\documents\visual studio 2015\Projects\PragmaticProgrammer_Exercises\Ex_13\bin\Debug\input.txt
+c:\users\kyria\documents\visual studio 2015\Projects\PragmaticProgrammer_Exercises\Ex_13\bin\Debug\Ex_13.exe
+c:\users\kyria\documents\visual studio 2015\Projects\PragmaticProgrammer_Exercises\Ex_13\bin\Debug\Ex_13.pdb
+c:\users\kyria\documents\visual studio 2015\Projects\PragmaticProgrammer_Exercises\Ex_13\obj\Debug\Ex_13.csprojResolveAssemblyReference.cache
+c:\users\kyria\documents\visual studio 2015\Projects\PragmaticProgrammer_Exercises\Ex_13\obj\Debug\Ex_13.exe
+c:\users\kyria\documents\visual studio 2015\Projects\PragmaticProgrammer_Exercises\Ex_13\obj\Debug\Ex_13.pdb
